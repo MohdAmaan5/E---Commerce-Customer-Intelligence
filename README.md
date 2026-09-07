@@ -4,10 +4,10 @@ This is an E-commerce customer intelligence project, the analysis of this projec
 
 📁 Dataset
 
-Description : Customer behavior and trend patterns.
-Type : database
-Size : 407 kb
-Source : Google
+* Description : Customer behavior and trend patterns.
+* Type : database
+* Size : 407 kb
+* Source : Google
 
 🛠 Tools and Tech
 
