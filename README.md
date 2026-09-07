@@ -11,11 +11,11 @@ This is an E-commerce customer intelligence project, the analysis of this projec
 
 🛠 Tools and Tech
 
-Microsoft Excel : used to check the format of the data
-Python (Numpy, Pandas) : Used for the data cleaning, handling.
-SQL : Used to perform exploratory data analysis.	
-Microsoft Power BI : used for data visualisation.
-Microsoft Word : used for report writing.
+* Microsoft Excel : used to check the format of the data
+* Python (Numpy, Pandas) : Used for the data cleaning, handling.
+* SQL : Used to perform exploratory data analysis.	
+* Microsoft Power BI : used for data visualisation.
+* Microsoft Word : used for report writing.
 
 📋 Steps performed  
 
